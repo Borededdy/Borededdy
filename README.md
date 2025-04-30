@@ -1,16 +1,14 @@
-## Hi there 👋
+## Borededdy's Overview
 
-<!--
-**Borededdy/Borededdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*My Social Network Profiles*
+- Instagram: https://instagram.com/@edoardostefanacci
+- 𝕏: https://x.com/borededdyslair
+- Telegram: https://t.me/borededdyslair
+- Spotify: https://open.spotify.com/user/o3lyz5q7hh4a3pkoef5mx27jt
 
-Here are some ideas to get you started:
+### Known Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C/CXX
+- Java
+- PHP/MYSQL
+- ASM (RISCV-8086)
